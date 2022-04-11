@@ -119,9 +119,9 @@ ul{
   _::-webkit-full-page-media,
   _:future,
   :root,
-  /*.notion-collection-card-cover {
+  .notion-collection-card-cover {
     transition: none 0ms linear;
-  }*/
+  }
 }
 
 .notion-quote {
