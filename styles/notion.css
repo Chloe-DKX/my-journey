@@ -116,7 +116,7 @@
 
 .notion-quote {
   padding: 0.2em 0.75em;
-  font-size: 1.1em;
+  font-size: 1em;
 }
 
 .notion-h1,
@@ -273,7 +273,7 @@
   );
 }
 
-.notion-purple_background,
+/*.notion-_background,
 .notion-pink_background {
   /* light pink */
   background-image: linear-gradient(
@@ -283,7 +283,7 @@
     #f9bcd3 85.29%,
     var(--bg-color)
   );
-}
+}*/
 
 .notion-blue_background,
 .notion-gray_background {
