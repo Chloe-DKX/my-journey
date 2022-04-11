@@ -246,6 +246,7 @@
   background: linear-gradient(90.68deg, #b439df 0.26%, #e5337e 102.37%);
 }
 
+/*
 .notion-red_background,
 .notion-pink_background,
 .notion-blue_background,
@@ -273,7 +274,7 @@
   );
 }
 
-/*.notion-_background,
+.notion-_background,
 .notion-pink_background {
   /* light pink */
   background-image: linear-gradient(
@@ -283,7 +284,7 @@
     #f9bcd3 85.29%,
     var(--bg-color)
   );
-}*/
+}
 
 .notion-blue_background,
 .notion-gray_background {
@@ -345,6 +346,7 @@
   border-radius: 0;
   background: none !important;
 }
+*/
 
 /* if you don't want rounded page icon images, remove this */
 .notion-page-icon-hero.notion-page-icon-image {
