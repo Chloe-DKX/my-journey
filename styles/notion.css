@@ -116,7 +116,7 @@ ul{
 
 /* only target safari */
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
-  _::-webkit-full-page-media,
+  _:-webkit-full-page-media,
   _:future,
   :root,
   .notion-collection-card-cover {
