@@ -21,10 +21,15 @@
   --notion-max-width: 900px;
 }
 
+/*text*/
 .notion-text {
-  padding: 0.5em 8px;
   text-align:justify;
 }
+
+.notion-list li{
+   text-align:justify;
+}
+
 
 .notion-asset-caption {
   text-align: center;
@@ -136,15 +141,15 @@
 
 @media only screen and (max-width: 920px) {
   .index-page.notion-page {
-    padding-left: 10vw;
-    padding-right: 10vw;
+    padding-left: 8vw;
+    padding-right: 8vw;
   }
 }
 
 @media only screen and (max-width: 720px) {
   .notion-page {
-    padding-left: 10vw;
-    padding-right: 10vw;
+    padding-left: 8vw;
+    padding-right: 8vw;
   }
 }
 
