@@ -21,7 +21,7 @@
   --notion-max-width: 900px;
 }
 
-/*text*/
+/*change*/
 .notion-text {
   text-align:justify;
 }
@@ -33,6 +33,22 @@ ul{
 .notion-list li{
    text-align:justify;
 }
+
+ul ul{
+  padding-inline-start:0em;
+}
+
+.notion-callout-text{
+    text-align:justify;
+}
+
+.notion-list {
+   text-align:justify;
+}
+.notion-list-disc{
+  padding-inline-start:1em;
+}
+
 
 
 .notion-asset-caption {
